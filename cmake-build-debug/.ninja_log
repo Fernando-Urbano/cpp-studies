@@ -1,0 +1,5 @@
+# ninja log v5
+0	379	1711646313939661352	CMakeFiles/cpp_studies.dir/sum.cpp.o	78a9e0286da5b45b
+0	213	1711645977965287242	CMakeFiles/cpp_studies.dir/main.cpp.o	ddb061b01aa106b5
+0	43	1711646344239764616	build.ninja	7935bfa6bb077e64
+3	41	1711646344285527924	cpp_studies	6cc7521d854bad3b
