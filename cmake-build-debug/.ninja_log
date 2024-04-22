@@ -1,5 +1,21 @@
 # ninja log v5
 0	379	1711646313939661352	CMakeFiles/cpp_studies.dir/sum.cpp.o	78a9e0286da5b45b
+498	545	1712967679834373391	cpp_studies	77cdd4a2bfa8977f
+3	371	1711675352224674246	CMakeFiles/cpp_studies.dir/find_factors.cpp.o	6074c561365dbbc7
+3	261	1712193154394492437	CMakeFiles/cpp_studies.dir/string_class_from_std.cpp.o	96a145d26a378e69
+3	328	1712366494058680288	CMakeFiles/cpp_studies.dir/order_l3.cpp.o	1fc309d19f81c991
+0	368	1711648559698160910	CMakeFiles/cpp_studies.dir/variables.cpp.o	309db96d54d5b35c
+9	521	1712965569523384205	CMakeFiles/cpp_studies.dir/linked_list.cpp.o	c4935022ea412410
+3	246	1711667740474528897	CMakeFiles/cpp_studies.dir/sizeof.cpp.o	dc3c75ca9bc8f400
+3	385	1712187189954013867	CMakeFiles/cpp_studies.dir/class_order.cpp.o	f7e23611955e43b
+0	376	1711670432858713812	CMakeFiles/cpp_studies.dir/week.cpp.o	9a2cee04455f95eb
+3	250	1711671472795820335	CMakeFiles/cpp_studies.dir/miles_array.cpp.o	4be35400045cf74f
+6	498	1712967679784516463	CMakeFiles/cpp_studies.dir/forward_list.cpp.o	70d480831977f3eb
+1	67	1712969941082063921	build.ninja	7935bfa6bb077e64
 0	213	1711645977965287242	CMakeFiles/cpp_studies.dir/main.cpp.o	ddb061b01aa106b5
-0	43	1711646344239764616	build.ninja	7935bfa6bb077e64
-3	41	1711646344285527924	cpp_studies	6cc7521d854bad3b
+2	249	1712187824274260584	CMakeFiles/cpp_studies.dir/writing_pass_array.cpp.o	909b7d7e037c67b
+5	531	1712846812077426756	CMakeFiles/cpp_studies.dir/adress_in_memory.cpp.o	c2b2f51e7ce110b1
+0	430	1712847652352970500	CMakeFiles/cpp_studies.dir/stored_pointers.cpp.o	435206064b9c086
+3	336	1711757874177903399	CMakeFiles/cpp_studies.dir/two_d_array.cpp.o	de2c895204fb274c
+0	332	1712190056035151116	CMakeFiles/cpp_studies.dir/multidimensional_array.cpp.o	64edd58afe16e036
+5	559	1712970356130812059	CMakeFiles/cpp_studies.dir/order_killer.cpp.o	480d292b24d29c95

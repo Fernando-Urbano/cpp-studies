@@ -49,8 +49,14 @@ cmake_ninja_workdir = /Users/fernandorochacorreaurbano/Desktop/Advanced$ Computi
 
 build cmake_object_order_depends_target_cpp_studies: phony || CMakeFiles/cpp_studies.dir
 
-build CMakeFiles/cpp_studies.dir/sum.cpp.o: CXX_COMPILER__cpp_studies_unscanned_Debug /Users/fernandorochacorreaurbano/Desktop/Advanced$ Computing$ for$ Finance$ C++/cpp-studies/sum.cpp || cmake_object_order_depends_target_cpp_studies
-  DEP_FILE = CMakeFiles/cpp_studies.dir/sum.cpp.o.d
+build CMakeFiles/cpp_studies.dir/forward_list.cpp.o: CXX_COMPILER__cpp_studies_unscanned_Debug /Users/fernandorochacorreaurbano/Desktop/Advanced$ Computing$ for$ Finance$ C++/cpp-studies/forward_list.cpp || cmake_object_order_depends_target_cpp_studies
+  DEP_FILE = CMakeFiles/cpp_studies.dir/forward_list.cpp.o.d
+  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/cpp_studies.dir
+  OBJECT_FILE_DIR = CMakeFiles/cpp_studies.dir
+
+build CMakeFiles/cpp_studies.dir/order_killer.cpp.o: CXX_COMPILER__cpp_studies_unscanned_Debug /Users/fernandorochacorreaurbano/Desktop/Advanced$ Computing$ for$ Finance$ C++/cpp-studies/order_killer.cpp || cmake_object_order_depends_target_cpp_studies
+  DEP_FILE = CMakeFiles/cpp_studies.dir/order_killer.cpp.o.d
   FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/cpp_studies.dir
   OBJECT_FILE_DIR = CMakeFiles/cpp_studies.dir
@@ -63,7 +69,7 @@ build CMakeFiles/cpp_studies.dir/sum.cpp.o: CXX_COMPILER__cpp_studies_unscanned_
 #############################################
 # Link the executable cpp_studies
 
-build cpp_studies: CXX_EXECUTABLE_LINKER__cpp_studies_Debug CMakeFiles/cpp_studies.dir/sum.cpp.o
+build cpp_studies: CXX_EXECUTABLE_LINKER__cpp_studies_Debug CMakeFiles/cpp_studies.dir/forward_list.cpp.o CMakeFiles/cpp_studies.dir/order_killer.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk
   OBJECT_DIR = CMakeFiles/cpp_studies.dir
   POST_BUILD = :
